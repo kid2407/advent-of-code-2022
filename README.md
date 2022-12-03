@@ -6,9 +6,9 @@
 * [x] Day 2
     * [x] Part 1 (0.99ms)
     * [x] Part 2 (0.91ms)
-* [ ] Day 3
-    * [ ] Part 1 (XX.XXms)
-    * [ ] Part 2 (XX.XXms)
+* [x] Day 3
+    * [x] Part 1 (0.00ms)
+    * [x] Part 2 (0.00ms)
 * [ ] Day 4
     * [ ] Part 1 (XX.XXms)
     * [ ] Part 2 (XX.XXms)
