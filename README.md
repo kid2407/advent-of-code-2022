@@ -15,9 +15,9 @@
 * [x] Day 5
     * [x] Part 1 (0.93ms) (2.46 for parsing the data)
     * [X] Part 2 (0.47ms)
-* [ ] Day 6
-    * [ ] Part 1 (XX.XXms)
-    * [ ] Part 2 (XX.XXms)
+* [x] Day 6
+    * [x] Part 1 (1.09ms)
+    * [x] Part 2 (2.67ms)
 * [ ] Day 7
     * [ ] Part 1 (XX.XXms)
     * [ ] Part 2 (XX.XXms)
